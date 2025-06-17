@@ -7,8 +7,8 @@
   - [loading...](https://)
 
 
-<h2>Certifications</h2>
-
+<h2>Certifications: </h2>
+<a href="https://www.coursera.org/account/accomplishments/specialization/QRU5M1S5KP6U">Google Cybersecurity</a>
 
 
 <h2> 🤳 Connect with me:</h2>
