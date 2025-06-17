@@ -1,5 +1,5 @@
 <h1>Hi, I'm Fabián</h1> 
-<h2>I'm a telecom engineer pivoting to cybersecurity <br/> <a href="https://www.linkedin.com/in/fabián-aldama/">Cybersecurity Professional</a> </h2>
+<h2>I'm a telecom engineer pivoting to cybersecurity <br/> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -8,7 +8,9 @@
 
 
 <h2>Certifications: </h2>
-<a href="https://www.coursera.org/account/accomplishments/specialization/QRU5M1S5KP6U">Google Cybersecurity</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/QRU5M1S5KP6U">Google Cybersecurity</a><br/>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZFNUBU8AP9.pdf">Pre Security Certificate - TryHackMe</a>
+
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -19,7 +21,7 @@
 [instagram]: https://www.instagram.com/faldama19/
 [linkedin]: https://www.linkedin.com/in/fabián-aldama/
 
-<b> 🌱 I’m currently learning skills needed to work as a Security Analyst in a Security Operations Centre</b>
+<br/><h2> 🌱 I’m currently learning skills needed to work as a Security Analyst in a Security Operations Centre</h2>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
